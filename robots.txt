@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GgOFZ6.github.io/yaxing-crown-com-cn/sitemap.xml
